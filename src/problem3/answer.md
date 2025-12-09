@@ -26,7 +26,7 @@
 
 # => Combine above 6 problems, we can refactor code like this:
 
-./refactored.tsx
+https://github.com/JinNguyen96/code-challenge/blob/62b15dd878468050d7d1ede30cd95b6228855063/src/problem3/refactored.tsx
 
 With above refactored code:
 
