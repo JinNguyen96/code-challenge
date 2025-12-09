@@ -1,0 +1,26 @@
+@theme {
+  --color-brand-50: #FFF8E1;
+  --color-brand-100: #FFECB3;
+  --color-brand-200: #FFE082;
+  --color-brand-300: #FFD54F;
+  --color-brand-400: #FFCA28;
+  --color-brand-500: #1E3A5F;
+  --color-brand-600: #1A3250;
+  --color-brand-700: #152A42;
+  --color-brand-800: #102133;
+  --color-brand-900: #0A1825;
+
+  --color-light-50: #FFFFFF;
+  --color-light-100: #FAFAFA;
+  --color-light-200: #F5F5F7;
+  --color-light-300: #E8E8ED;
+  --color-light-400: #D1D1D6;
+
+  --color-accent-orange: #F19109;
+  --color-accent-gold: #FFB449;
+  --color-accent-error: #F43F5E;
+  --color-accent-success: #10B981;
+
+  --font-family-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+
